@@ -1,0 +1,12 @@
+{
+  "name": "genpark-agent-ephemeral-network-egress-firewall-skill",
+  "version": "1.0.0",
+  "description": "Zero-dependency IP/CIDR egress packet validator restricting agent outbound traffic to trusted package registries.",
+  "category": "Coding Agent Sandbox Security & Syscall Sentinel",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-agent-ephemeral-network-egress-firewall-skill",
+  "verified": true,
+  "stars": 8
+}
